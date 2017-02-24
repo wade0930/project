@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  fuckingasshole.cpp
+  正在產生程式碼...
+c:\ntutrockman\fuckingasshole\fuckingasshole\fuckingasshole.cpp(6): error C4716: 'Guess': 必須傳回值
